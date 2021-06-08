@@ -72,7 +72,7 @@ html, body {
     margin: 100px auto;
  	background: rgba(0, 150, 178, .75); /*this uses opacity of 75% for the background color*/
 	text-align: center;
-	border: 4px dashed white;
+	border: 4px dashed green;
 }
 
    
@@ -112,7 +112,7 @@ nav{
 	font-size: 1.2em;
 	width: 400px
 	margin: 0 auto;
-	border: dashed turquoise;
+	border: dashed green;
 	border-width: 3px 0;
 	text-align: center;
 	margin-top: 2em;
